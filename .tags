@@ -1,0 +1,36 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Learn.co Educational Content License	/Users/manon/Development/code/activerecord-associations-intro-london-web-career-031119/LICENSE.md	/^#Learn.co Educational Content License$/;"	function	line:1
+Song	/Users/manon/Development/code/activerecord-associations-intro-london-web-career-031119/app/models/song.rb	/^class Song < ActiveRecord::Base$/;"	class	line:1
+Genre	/Users/manon/Development/code/activerecord-associations-intro-london-web-career-031119/app/models/genre.rb	/^class Genre < ActiveRecord::Base$/;"	class	line:1
+Artist	/Users/manon/Development/code/activerecord-associations-intro-london-web-career-031119/app/models/artist.rb	/^class Artist < ActiveRecord::Base$/;"	class	line:1
+adapter	/Users/manon/Development/code/activerecord-associations-intro-london-web-career-031119/config/database.yml	/^adapter: 'sqlite3'$/;"	function	line:1
+database	/Users/manon/Development/code/activerecord-associations-intro-london-web-career-031119/config/database.yml	/^database: 'db\/playlister.db'$/;"	function	line:2
+Active Record Associations Introduction: Playlister	/Users/manon/Development/code/activerecord-associations-intro-london-web-career-031119/README.md	/^# Active Record Associations Introduction: Playlister$/;"	function	line:1
+Objectives	/Users/manon/Development/code/activerecord-associations-intro-london-web-career-031119/README.md	/^## Objectives$/;"	function	line:3
+What are Active Record Associations?	/Users/manon/Development/code/activerecord-associations-intro-london-web-career-031119/README.md	/^## What are Active Record Associations?$/;"	function	line:8
+How do we use AR Associations?	/Users/manon/Development/code/activerecord-associations-intro-london-web-career-031119/README.md	/^## How do we use AR Associations?$/;"	function	line:16
+Overview	/Users/manon/Development/code/activerecord-associations-intro-london-web-career-031119/README.md	/^## Overview$/;"	function	line:41
+Building our Migrations	/Users/manon/Development/code/activerecord-associations-intro-london-web-career-031119/README.md	/^## Building our Migrations$/;"	function	line:61
+The Song model	/Users/manon/Development/code/activerecord-associations-intro-london-web-career-031119/README.md	/^### The Song model$/;"	function	line:63
+The Artist Model	/Users/manon/Development/code/activerecord-associations-intro-london-web-career-031119/README.md	/^### The Artist Model$/;"	function	line:91
+The Genre Model	/Users/manon/Development/code/activerecord-associations-intro-london-web-career-031119/README.md	/^### The Genre Model$/;"	function	line:114
+Building our Associations using AR Macros	/Users/manon/Development/code/activerecord-associations-intro-london-web-career-031119/README.md	/^## Building our Associations using AR Macros$/;"	function	line:138
+What is a macro?	/Users/manon/Development/code/activerecord-associations-intro-london-web-career-031119/README.md	/^### What is a macro?$/;"	function	line:140
+A Song Belongs to an Artist and A Genre	/Users/manon/Development/code/activerecord-associations-intro-london-web-career-031119/README.md	/^### A Song Belongs to an Artist and A Genre$/;"	function	line:152
+An Artist Has Many Songs	/Users/manon/Development/code/activerecord-associations-intro-london-web-career-031119/README.md	/^### An Artist Has Many Songs$/;"	function	line:179
+Genres Have Many Songs and Have Many Artists	/Users/manon/Development/code/activerecord-associations-intro-london-web-career-031119/README.md	/^### Genres Have Many Songs and Have Many Artists$/;"	function	line:209
+Our Code in Action: Working with Associations	/Users/manon/Development/code/activerecord-associations-intro-london-web-career-031119/README.md	/^## Our Code in Action: Working with Associations$/;"	function	line:238
+Video Reviews	/Users/manon/Development/code/activerecord-associations-intro-london-web-career-031119/README.md	/^## Video Reviews$/;"	function	line:347
+Contributing to Learn.co Curriculum	/Users/manon/Development/code/activerecord-associations-intro-london-web-career-031119/CONTRIBUTING.md	/^# Contributing to Learn.co Curriculum$/;"	function	line:1
+Raising an Issue to Encourage a Contribution	/Users/manon/Development/code/activerecord-associations-intro-london-web-career-031119/CONTRIBUTING.md	/^## Raising an Issue to Encourage a Contribution$/;"	function	line:5
+Submitting a Pull Request to Suggest an Improvement	/Users/manon/Development/code/activerecord-associations-intro-london-web-career-031119/CONTRIBUTING.md	/^## Submitting a Pull Request to Suggest an Improvement$/;"	function	line:13
+Why Contribute?	/Users/manon/Development/code/activerecord-associations-intro-london-web-career-031119/CONTRIBUTING.md	/^# Why Contribute?$/;"	function	line:25
+CreateSongs	/Users/manon/Development/code/activerecord-associations-intro-london-web-career-031119/db/migrate/03_create_songs.rb	/^class CreateSongs < ActiveRecord::Migration[4.2]$/;"	class	line:1
+CreateArtists	/Users/manon/Development/code/activerecord-associations-intro-london-web-career-031119/db/migrate/01_create_artists.rb	/^class CreateArtists < ActiveRecord::Migration[4.2]$/;"	class	line:1
+AddArtistToSongs	/Users/manon/Development/code/activerecord-associations-intro-london-web-career-031119/db/migrate/04_add_artist_to_songs.rb	/^class AddArtistToSongs < ActiveRecord::Migration[4.2]$/;"	class	line:1
+CreateGenres	/Users/manon/Development/code/activerecord-associations-intro-london-web-career-031119/db/migrate/02_create_genres.rb	/^class CreateGenres < ActiveRecord::Migration[4.2]$/;"	class	line:1
